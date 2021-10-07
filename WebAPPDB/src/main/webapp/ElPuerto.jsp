@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1" id="WebAPP">
-<title>AvalonCity</title>
+<title>WebAPP</title>
 </head>
 <body>
 <h2 align="center">User Registration</h2>
